@@ -1,4 +1,4 @@
-# DSINIT
+# INITDS
 
 This is a bash script that initializes a standard data science python project structure.  The following structure will be created automatically.
 
